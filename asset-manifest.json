@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.88a816c1.css",
-    "main.js": "/static/js/main.457fb7c5.js",
-    "static/media/about.png": "/static/media/about.9968dde0966a25ab5695.png",
-    "static/media/restaurant.png": "/static/media/restaurant.03a7f45f18d814b28661.png",
-    "static/media/Eatly-logo.png": "/static/media/Eatly-logo.1c1bb1cb245a4f4c566f.png",
-    "static/media/grilledChicken.jpg": "/static/media/grilledChicken.57a74f1c829684820760.jpg",
-    "static/media/caesarSalad.jpg": "/static/media/caesarSalad.0201c1d94eb1f001ec9b.jpg",
-    "static/media/Pizza.jpg": "/static/media/Pizza.a8431e4b5b751d7307e7.jpg",
-    "static/media/spaghetti.jpg": "/static/media/spaghetti.1be3908537f359b82366.jpg",
-    "static/media/cheeseburger.jpg": "/static/media/cheeseburger.7b1da1c7273cdf1343d8.jpg",
-    "static/media/chocolateCake.jpg": "/static/media/chocolateCake.6bcb7d7167a42aa9752a.jpg",
-    "index.html": "/index.html",
-    "main.88a816c1.css.map": "/static/css/main.88a816c1.css.map",
-    "main.457fb7c5.js.map": "/static/js/main.457fb7c5.js.map"
+    "main.css": "/Eatly/static/css/main.88a816c1.css",
+    "main.js": "/Eatly/static/js/main.4acebdf3.js",
+    "static/media/about.png": "/Eatly/static/media/about.9968dde0966a25ab5695.png",
+    "static/media/restaurant.png": "/Eatly/static/media/restaurant.03a7f45f18d814b28661.png",
+    "static/media/Eatly-logo.png": "/Eatly/static/media/Eatly-logo.1c1bb1cb245a4f4c566f.png",
+    "static/media/grilledChicken.jpg": "/Eatly/static/media/grilledChicken.57a74f1c829684820760.jpg",
+    "static/media/caesarSalad.jpg": "/Eatly/static/media/caesarSalad.0201c1d94eb1f001ec9b.jpg",
+    "static/media/Pizza.jpg": "/Eatly/static/media/Pizza.a8431e4b5b751d7307e7.jpg",
+    "static/media/spaghetti.jpg": "/Eatly/static/media/spaghetti.1be3908537f359b82366.jpg",
+    "static/media/cheeseburger.jpg": "/Eatly/static/media/cheeseburger.7b1da1c7273cdf1343d8.jpg",
+    "static/media/chocolateCake.jpg": "/Eatly/static/media/chocolateCake.6bcb7d7167a42aa9752a.jpg",
+    "index.html": "/Eatly/index.html",
+    "main.88a816c1.css.map": "/Eatly/static/css/main.88a816c1.css.map",
+    "main.4acebdf3.js.map": "/Eatly/static/js/main.4acebdf3.js.map"
   },
   "entrypoints": [
     "static/css/main.88a816c1.css",
-    "static/js/main.457fb7c5.js"
+    "static/js/main.4acebdf3.js"
   ]
 }
