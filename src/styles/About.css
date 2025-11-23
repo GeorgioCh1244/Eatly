@@ -1,0 +1,44 @@
+.about-page {
+  padding: 40px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.about-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.about-image {
+  width: 400px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.about-text {
+  flex: 1;
+}
+
+.about-text h2 {
+  color: #8b0000;
+  margin-top: 20px;
+}
+
+.about-text p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-top: 10px;
+}
+
+.about-text ul {
+  list-style: none;
+  padding: 0;
+}
+
+.about-text li {
+  margin: 8px 0;
+  font-size: 15px;
+}

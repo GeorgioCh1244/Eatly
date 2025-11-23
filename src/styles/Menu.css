@@ -1,0 +1,11 @@
+.menu-page {
+  padding: 20px;
+  text-align: center;
+}
+
+.menu-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}

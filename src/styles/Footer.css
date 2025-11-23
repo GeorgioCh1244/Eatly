@@ -1,0 +1,27 @@
+.footer {
+  background-color: #8b0000; /* dark red theme */
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.socialMedia {
+  margin-bottom: 10px;
+}
+
+.socialMedia a {
+  margin: 0 10px;
+  color: white;
+  font-size: 24px;
+  transition: color 0.3s ease;
+}
+
+.socialMedia a:hover {
+  color: #ffd700; /* gold hover effect */
+}
+
+.footer p {
+  font-size: 14px;
+  margin: 0;
+}

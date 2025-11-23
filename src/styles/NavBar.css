@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #8b0000; /* dark red theme */
+  padding: 10px 20px;
+}
+
+.logo {
+  height: 50px;
+  border-radius: 8px;
+}
+
+.rightSide a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.rightSide a:hover {
+  color: #ffd700; /* gold hover effect */
+}

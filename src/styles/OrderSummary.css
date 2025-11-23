@@ -1,0 +1,39 @@
+.order-summary {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  margin: 20px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.summary-item {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+.summary-item h3 {
+  margin: 0;
+  color: #8b0000;
+}
+
+.total {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #8b0000;
+}
+
+.confirm-btn {
+  background-color: #8b0000;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 15px;
+}
+
+.confirm-btn:hover {
+  background-color: #b22222;
+}
