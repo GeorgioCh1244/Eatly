@@ -16,10 +16,12 @@
     "react-router-dom": "^7.9.6",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage":"https://GeorgioCh1244.github.io/Eatly"
+    "homepage":"https://georgioch1244.github.io/Eatly/"
   },
   "scripts": {
-        "deploy":"gh-pages -d build",
+      "predeploy":"npm run build",
+
+  "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
