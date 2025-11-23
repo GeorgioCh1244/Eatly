@@ -19,6 +19,8 @@
     "homepage":"https://GeorgioCh1244.github.io/Eatly"
   },
   "scripts": {
+          "predeploy":"npm run build",
+
         "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
