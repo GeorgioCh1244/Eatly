@@ -2,7 +2,7 @@
   "name": "a1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GeorgioCh1244.github.io/Eatly",
+  "homepage": "https://georgioch1244.github.io/Eatly",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
